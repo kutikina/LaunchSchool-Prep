@@ -60,5 +60,5 @@ puts "return is nil."
 #Excercise 6
 #Explain error dialogue
 puts "Excercise 6"
-puts "The error means that a method has been called that requires two arguments but only one was provided and there was no default argument set."
+puts "The error means that a method has been called that requires two arguments but only one was provided and there was no default argument."
 
