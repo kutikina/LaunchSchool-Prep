@@ -83,13 +83,15 @@ x = "hi there"
 my_hash = {x: "some value"}
 my_hash2 = {x => "some value"}
 
-p my_hash
 puts my_hash
+puts my_hash2
 
 #Excercise 8
 #Diagnose error
 puts "Excercise 8"
-puts ""
+puts "Answer is B."
+
+
 
 
 
